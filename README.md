@@ -1,6 +1,8 @@
 # Gush Assessment Backend
 
-Nodejs frontend.
+Nodejs backend.
+
+![Screenshot 2023-12-10 at 4 33 41 PM](https://github.com/venkateshwebdev/gushbe/assets/105224564/4bbb9612-c201-476d-b681-2ae85cb048f8)
 
 
 Here is a working video of the project. Please find the video below
